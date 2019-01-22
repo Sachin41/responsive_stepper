@@ -24,4 +24,4 @@ $(document).ready(function(){
     if(nextVisit){
      $(current).parent().nextAll().removeClass("visited");
     }    
-  }
+}
